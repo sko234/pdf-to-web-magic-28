@@ -1,4 +1,4 @@
-import logo from "@/assets/logo.png";
+import logo from "@/assets/exp-luxury.png";
 
 const navLinks = [
   { label: "WELCOME", href: "#welcome" },
