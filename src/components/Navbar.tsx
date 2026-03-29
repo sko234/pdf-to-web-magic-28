@@ -1,11 +1,9 @@
 import logo from "@/assets/exp-luxury.png";
 
 const navLinks = [
-  { label: "WELCOME", href: "#welcome" },
+  { label: "HOME", href: "#welcome" },
   { label: "MARKET ANALYSIS", href: "#market" },
-  { label: "STRATEGIC MARKETING", href: "#marketing" },
   { label: "COMMUNICATION", href: "#communication" },
-  { label: "GUARANTEE", href: "#guarantee" },
   { label: "TESTIMONIALS", href: "#testimonials" },
   { label: "CONNECT", href: "#connect" },
 ];
