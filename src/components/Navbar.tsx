@@ -4,7 +4,6 @@ const navLinks = [
   { label: "HOME", href: "#welcome" },
   { label: "MARKET ANALYSIS", href: "#market" },
   { label: "COMMUNICATION", href: "#communication" },
-  { label: "TESTIMONIALS", href: "#testimonials" },
   { label: "CONNECT", href: "#connect" },
 ];
 

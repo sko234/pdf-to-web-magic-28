@@ -4,17 +4,6 @@ import hills from "@/assets/hills.jpg";
 const MarketAnalysisSection = () => {
   return (
     <section id="market">
-      {/* Dark background with data visualization */}
-      <div className="relative">
-        <img src={marketBg} alt="" className="w-full h-[500px] object-cover" />
-        <div className="absolute inset-0 bg-charcoal/70 flex items-center justify-center">
-          <div className="text-center text-primary-foreground px-6">
-            <h2 className="font-serif text-4xl md:text-5xl font-light uppercase mb-2">
-              MARKET <span className="font-script capitalize text-3xl md:text-4xl">Analysis</span>
-            </h2>
-          </div>
-        </div>
-      </div>
 
       {/* Green hills divider */}
       <div className="relative">
