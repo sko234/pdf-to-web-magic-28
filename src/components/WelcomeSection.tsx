@@ -37,7 +37,9 @@ const WelcomeSection = () => {
           </div>
           <div>
             <h3 className="font-script text-3xl md:text-4xl text-foreground mb-6">
-              Hi! I'm Tara. So nice to meet you.
+            <h3 className="font-script text-3xl md:text-4xl text-foreground mb-6">
+              Hi! I'm Milena. So nice to meet you.
+            </h3>
             </h3>
             <div className="space-y-4 text-sm font-sans leading-relaxed text-muted-foreground">
               <p>
