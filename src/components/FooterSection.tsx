@@ -1,4 +1,4 @@
-import logoElite from "@/assets/logo-elite.png";
+import logoElite from "@/assets/exp-luxury.png";
 
 const FooterSection = () => {
   return (
