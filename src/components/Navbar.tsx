@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 section-dark">
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-14">
-        <img src={logo} alt="Girls With Grit" className="h-6" />
+        <img src={logo} alt="eXp Luxury" className="h-10" />
         <div className="hidden lg:flex items-center gap-6">
           {navLinks.map((link) => (
             <button
