@@ -19,23 +19,21 @@ const FooterSection = () => {
         </div>
 
         {/* Info grid */}
-        <div className="grid md:grid-cols-2 gap-8 text-center md:text-left">
-          <div>
-            <h4 className="text-xs font-sans font-semibold tracking-extrawide uppercase text-primary-foreground mb-3">
-              Let's Connect
-            </h4>
-            <p className="text-xs font-sans text-primary-foreground/70 leading-relaxed">
-              milena.nelson@exprealty.com
-            </p>
-            <p className="text-xs font-sans text-primary-foreground/70 leading-relaxed mt-1">
-              1-404-428-7361
-            </p>
-            <div className="flex items-center justify-center md:justify-start gap-2 mt-2">
-              <Linkedin className="w-4 h-4 text-primary-foreground/70" />
-              <Facebook className="w-4 h-4 text-primary-foreground/70" />
-              <Instagram className="w-4 h-4 text-primary-foreground/70" />
-              <span className="text-xs font-sans text-primary-foreground/70">@MilenaNelsonRealtor</span>
-            </div>
+        <div className="text-center">
+          <h4 className="text-xs font-sans font-semibold tracking-extrawide uppercase text-primary-foreground mb-3">
+            Let's Connect
+          </h4>
+          <p className="text-xs font-sans text-primary-foreground/70 leading-relaxed">
+            milena.nelson@exprealty.com
+          </p>
+          <p className="text-xs font-sans text-primary-foreground/70 leading-relaxed mt-1">
+            1-404-428-7361
+          </p>
+          <div className="flex items-center justify-center gap-2 mt-2">
+            <Linkedin className="w-4 h-4 text-primary-foreground/70" />
+            <Facebook className="w-4 h-4 text-primary-foreground/70" />
+            <Instagram className="w-4 h-4 text-primary-foreground/70" />
+            <span className="text-xs font-sans text-primary-foreground/70">@MilenaNelsonRealtor</span>
           </div>
         </div>
       </div>
